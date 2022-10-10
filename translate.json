@@ -1,0 +1,7 @@
+{
+    "translation":{
+        "eng_to_hindi":"https://translate.google.com/?sl=en&tl=hi&op=translate&hl=en",
+        "eng_to_arabic":"https://translate.google.com/?sl=en&tl=ar&op=translate&hl=en",
+        "arabic_to_eng":"https://translate.google.com/?sl=ar&tl=en&op=translate&hl=en"
+    }
+}
